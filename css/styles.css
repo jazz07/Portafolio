@@ -251,10 +251,10 @@ body.dark{
     width: 225px;
 }
 
-@media screen and (min-width: 760px){
+@media screen and (min-width: 790px){
     .buttons{
-        position: absolute;
-        bottom: 1em;
+        position: relative;
+        bottom: 0em;
     }
 }
 
